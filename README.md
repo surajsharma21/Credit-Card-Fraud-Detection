@@ -18,6 +18,6 @@ You need to have installed following softwares and libraries in your machine bef
 * Python 3: https://www.python.org/downloads/
 * Anaconda: https://www.anaconda.com/download/
 ## Authors
-Gaurav Sharma - Complete work
+Suraj Sharma - Complete work
 ## Acknowledgments
 Applied AI Course
